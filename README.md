@@ -81,12 +81,21 @@ The dataset was evaluated across product ratings, logistics timelines, product c
 
 ---
 
+## Dataset
+
+The analysis is based on the **Amazon E-Commerce** dataset provided on Kaggle:
+
+> 📦 **[Amazon E-Commerce Dataset — sharmajicoder](https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce)**
+
+Download the dataset from the link above and place the CSV file in a local `dataset/` folder before opening the Power BI report.
+
+---
+
 ## Repository Structure
 
 ```text
 ├── assets/
-│   └── dashboard.png         # Executive Power BI dashboard screenshot
-├── data/
-│   └── ecommerce_returns.csv # Raw dataset
-├── PowerBI_Dashboard.pbix    # Complete Power BI report file
-└── README.md                 # Project documentation & summary
+│   └── dashboard.png                   # Executive Power BI dashboard screenshot
+├── Power BI Exculsive Dashboard.pbix   # Complete Power BI report file
+└── README.md                           # Project documentation & summary
+```
